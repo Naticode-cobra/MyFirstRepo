@@ -1,1 +1,0 @@
-I have successfully learned how to initialize a repository, create and merge branches using a Pull Request, and how to contribute to an external project through forking.
